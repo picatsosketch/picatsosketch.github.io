@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+body{
+  font-family: sans-serif;
+}
+a{
+  display: block;
+  margin-bottom: 10px;
+}
+.info{
+  position: fixed;
+  width: fit-content;
+  height: calc(100vh - 200px);
+  inset: 0;
+  margin: auto;
+  text-align: center;
+}
